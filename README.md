@@ -4,7 +4,7 @@ Hey!
 <br/>
 <br/> Lover of technology :heart:
 <br/>
-<br/> :snake: Python developer | :zap: Eletrical engineer | :computer: Cisco DevNet 
+<br/> :snake: Python developer  | :zap: Eletrical engineer | :computer: Cisco DevNet 
 <br/> :blush: Automation scripts and Python backend 
 <br/> :purple_heart: Front-end student 
 <br/> :video_game: Games and sports 
