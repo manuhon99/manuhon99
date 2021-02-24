@@ -1,6 +1,7 @@
 ## Emanueli Silva
 
-Hey! :metal:
+Hey!
+<br/>
 <br/> Lover of technology :heart:
 <br/>
 <br/> :snake: Python developer | :zap: Eletrical engineer | :computer: Cisco DevNet 
